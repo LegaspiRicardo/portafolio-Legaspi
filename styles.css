@@ -1,0 +1,17 @@
+.diagonal{
+
+
+    clip-path: polygon(
+    100% 0%,
+    100% 100%,
+    0% 100%,
+    0% 100%
+    );
+
+}
+
+
+.numero{
+    clip-path: url('images/icons/one.png'); /* Reemplaza 'tu-color.png' con la ruta de tu imagen de máscara */
+
+}
